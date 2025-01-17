@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Datascience
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me ad
-- 😄 Pronouns: ...
+- 😄 Pronouns: she
 - ⚡ Fun fact: ...
 
 <!---
